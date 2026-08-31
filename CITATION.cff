@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying study."
+title: "Genomic atlas of cardiac and adiposity imaging phenotypes"
+authors:
+  - family-names: "Tsao"
+    given-names: "H. M."
+  - family-names: "Smith"
+    given-names: "L."
+  - family-names: "Richard"
+    given-names: "A."
+date-released: 2026-07-28
+repository-code: "https://github.com/yoshiji-lab/cardiac-adiposity-genomic-atlas"
+url: "https://www.medrxiv.org/content/10.64898/2026.07.28.26358969v1"
+preferred-citation:
+  type: article
+  title: "Genomic atlas of cardiac and adiposity imaging phenotypes"
+  authors:
+    - family-names: "Tsao"
+      given-names: "H. M."
+    - family-names: "Smith"
+      given-names: "L."
+    - family-names: "Richard"
+      given-names: "A."
+  year: 2026
+  journal: "medRxiv"
+  url: "https://www.medrxiv.org/content/10.64898/2026.07.28.26358969v1"

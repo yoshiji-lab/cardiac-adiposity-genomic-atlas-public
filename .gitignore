@@ -1,0 +1,24 @@
+# Local configuration and secrets
+01.config/local.env
+*.env
+!.env.example
+!01.config/01.example.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.secret
+secrets/
+
+# Analysis logs and temporary files
+*.log
+*.out
+*.err
+*.tmp
+*.temp
+*.swp
+.DS_Store
+.ipynb_checkpoints/
+
+# Demo-generated outputs
+04.demo/output/
